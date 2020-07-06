@@ -421,17 +421,7 @@ def pilih_super():
 	print "  \033[1;93m«---•◈•---Developed By Alizada---•◈•---»" #Dev:love_hacker
 	print '\033[1;91mProcess Has Been Completed\033[1;92m....'
 	print"\033[1;91mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;91m"+str(len(oks))+"\033[1;97m/\033[1;95m"+str(len(cekpoint))
-	print """
-             
-             ...........███ ]▄▄▄▄▄▃
-             ..▂▄▅█████▅▄▃▂
-             [███████████████]
-             ◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤
-♡──────────────•◈•──────────────♡.
-: \033[1;96m .....Alizada  AfghanGang........... \033[1;93m :
-♡──────────────•◈•──────────────♡.' 
-                whatsapp Num
-               +9780948191"""
+	
 	
 	raw_input("\n\033[1;92m[\033[1;94mBack\033[1;96m]")
 	menu()
