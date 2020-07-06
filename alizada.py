@@ -82,11 +82,31 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print  """
-  █████  ██      ██ ███████  █████  ██████   █████  
-██   ██ ██      ██    ███  ██   ██ ██   ██ ██   ██ 
-███████ ██      ██   ███   ███████ ██   ██ ███████ 
-██   ██ ██      ██  ███    ██   ██ ██   ██ ██   ██ 
-██   ██ ███████ ██ ███████ ██   ██ ██████  ██   ██ 
+                                                                                                                                                                        
+                                                                                                                                                                        
+               AAA               LLLLLLLLLLL             IIIIIIIIIIZZZZZZZZZZZZZZZZZZZ               AAA               DDDDDDDDDDDDD                  AAA               
+              A:::A              L:::::::::L             I::::::::IZ:::::::::::::::::Z              A:::A              D::::::::::::DDD              A:::A              
+             A:::::A             L:::::::::L             I::::::::IZ:::::::::::::::::Z             A:::::A             D:::::::::::::::DD           A:::::A             
+            A:::::::A            LL:::::::LL             II::::::IIZ:::ZZZZZZZZ:::::Z             A:::::::A            DDD:::::DDDDD:::::D         A:::::::A            
+           A:::::::::A             L:::::L                 I::::I  ZZZZZ     Z:::::Z             A:::::::::A             D:::::D    D:::::D       A:::::::::A           
+          A:::::A:::::A            L:::::L                 I::::I          Z:::::Z              A:::::A:::::A            D:::::D     D:::::D     A:::::A:::::A          
+         A:::::A A:::::A           L:::::L                 I::::I         Z:::::Z              A:::::A A:::::A           D:::::D     D:::::D    A:::::A A:::::A         
+        A:::::A   A:::::A          L:::::L                 I::::I        Z:::::Z              A:::::A   A:::::A          D:::::D     D:::::D   A:::::A   A:::::A        
+       A:::::A     A:::::A         L:::::L                 I::::I       Z:::::Z              A:::::A     A:::::A         D:::::D     D:::::D  A:::::A     A:::::A       
+      A:::::AAAAAAAAA:::::A        L:::::L                 I::::I      Z:::::Z              A:::::AAAAAAAAA:::::A        D:::::D     D:::::D A:::::AAAAAAAAA:::::A      
+     A:::::::::::::::::::::A       L:::::L                 I::::I     Z:::::Z              A:::::::::::::::::::::A       D:::::D     D:::::DA:::::::::::::::::::::A     
+    A:::::AAAAAAAAAAAAA:::::A      L:::::L         LLLLLL  I::::I  ZZZ:::::Z     ZZZZZ    A:::::AAAAAAAAAAAAA:::::A      D:::::D    D:::::DA:::::AAAAAAAAAAAAA:::::A    
+   A:::::A             A:::::A   LL:::::::LLLLLLLLL:::::LII::::::IIZ::::::ZZZZZZZZ:::Z   A:::::A             A:::::A   DDD:::::DDDDD:::::DA:::::A             A:::::A   
+  A:::::A               A:::::A  L::::::::::::::::::::::LI::::::::IZ:::::::::::::::::Z  A:::::A               A:::::A  D:::::::::::::::DDA:::::A               A:::::A  
+ A:::::A                 A:::::A L::::::::::::::::::::::LI::::::::IZ:::::::::::::::::Z A:::::A                 A:::::A D::::::::::::DDD A:::::A                 A:::::A 
+AAAAAAA                   AAAAAAALLLLLLLLLLLLLLLLLLLLLLLLIIIIIIIIIIZZZZZZZZZZZZZZZZZZZAAAAAAA                   AAAAAAADDDDDDDDDDDDD   AAAAAAA                   AAAAAAA
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                         
                                                    
                                                      
    \033[1;92m███████▒▒Welcome To AfghanGang▒▒████████
